@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1,.INFO_Update_10.01.2021
-http://live.m2.tv/hls/stream.m3u8
+#EXTINF:-1,INFO_Update_27.04.2021
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1,Радио Хит ТВ
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
